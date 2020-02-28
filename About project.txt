@@ -1,0 +1,8 @@
+>Project name: Microworld
+>Description: a small "world" with its creatures, for example green-grass, yellow-herbivores, and blue is the player himself
+>Release data: October 2018
+>Version: 2.1.0
+>Project meaning: more object-oriented programming practice, learn inheritance
+>Additionally: done on courses "programming 3" in TUMO
+>Site (v2.0): http://microworld.herokuapp.com/
+>Github:  
